@@ -26,4 +26,8 @@ target_link_libraries(OpenCVDemo
         opencv_core
         opencv_highgui
         opencv_video)
+```
 
+
+## Compile On Xcode
+Run: cmake -G "Xcode" .
